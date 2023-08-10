@@ -3,6 +3,9 @@
 
 - 📫 How to reach me **vaibhavguy40@gmail.com**
 
+<h3 align="left">My Latest Projects</h3>h3
+<a title="Install type-the-alphabet Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/type-the-alphabet"><img src="https://www.raycast.com/Vaibhav-Satishkumar/type-the-alphabet/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
