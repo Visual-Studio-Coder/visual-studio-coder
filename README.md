@@ -8,10 +8,7 @@
 
 <a title="Install schoology Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/schoology"><img src="https://www.raycast.com/Vaibhav-Satishkumar/schoology/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
 
-<a title="Install tip-calculator Raycast Extension" href="[https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter](https://www.raycast.com/Vaibhav-Satishkumar/tip-calculator)"><img src="https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
-
-
-<a title="" href=""><img src="https://www.raycast.com/Vaibhav-Satishkumar/tip-calculator/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
+<a title="Install tip-calculator Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/tip-calculator"><img src="https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
 
 <a title="Install spoiler-converter Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter"><img src="https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
 
