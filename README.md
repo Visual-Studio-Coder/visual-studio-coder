@@ -6,6 +6,8 @@
 
 <h3 align="left">My Latest Projects</h3>
 
+<a title="Install masked-link-generator Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/masked-link-generator"><img src="https://www.raycast.com/Vaibhav-Satishkumar/masked-link-generator/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+
 <a title="Install system-information Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/system-information"><img src="https://www.raycast.com/Vaibhav-Satishkumar/system-information/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 
 <a title="Install schoology Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/schoology"><img src="https://www.raycast.com/Vaibhav-Satishkumar/schoology/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
