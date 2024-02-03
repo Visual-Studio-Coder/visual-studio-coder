@@ -2,7 +2,7 @@
 <h3 align="left">A passionate backend/frontend developer from the United States of America 🇺🇸🗽🦅🍔</h3>
 <div></div>
 
-- 📫 How to reach me **dontlogthisemail+github@icloud.com**
+- 📫 How to reach me **ubdhsqw1@duck.com**
 
 <h3 align="left">My Latest Projects</h3>
 
