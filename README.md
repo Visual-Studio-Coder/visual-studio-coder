@@ -6,23 +6,12 @@
 
 <h3 align="left">My Latest Projects</h3>
 
-<a title="Install masked-link-generator Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/masked-link-generator"><img src="https://www.raycast.com/Vaibhav-Satishkumar/masked-link-generator/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
-
-<a title="Install system-information Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/system-information"><img src="https://www.raycast.com/Vaibhav-Satishkumar/system-information/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
-
 <a title="Install schoology Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/schoology"><img src="https://www.raycast.com/Vaibhav-Satishkumar/schoology/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
-
-<a title="Install tip-calculator Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/tip-calculator"><img src="https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
-
-<a title="Install spoiler-converter Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter"><img src="https://www.raycast.com/Vaibhav-Satishkumar/spoiler-converter/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
-
-<a title="Install type-the-alphabet Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/type-the-alphabet"><img src="https://www.raycast.com/Vaibhav-Satishkumar/type-the-alphabet/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
 
 <a title="Install url-shortener Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/url-shortener"><img src="https://www.raycast.com/Vaibhav-Satishkumar/url-shortener/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
 
-<a title="Install metronome Raycast Extension" href="https://www.raycast.com/Vaibhav-Satishkumar/metronome"><img src="https://www.raycast.com/Vaibhav-Satishkumar/metronome/install_button@2x.png?v=1.0" height="64" alt="" style="height: 64px;"></a>
+I am also working on a location-based reminder rewritten with the SwiftUI framework as opposed to UIKit. I'll add the App Store link as soon as that's finished.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
