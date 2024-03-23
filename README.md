@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Visual-Studio-Coder</h1>
 <h3 align="left">A passionate backend/frontend developer from the United States of America 🇺🇸🗽🦅🍔</h3>
 <div></div>
-
+<h3 align="left">
        _                 _           _             _ _                           _
 __   _(_)___ _   _  __ _| |      ___| |_ _   _  __| (_) ___         ___ ___   __| | ___ _ __
 \ \ / | / __| | | |/ _` | |_____/ __| __| | | |/ _` | |/ _ \ _____ / __/ _ \ / _` |/ _ | '__|
  \ V /| \__ | |_| | (_| | |_____\__ | |_| |_| | (_| | | (_) |_____| (_| (_) | (_| |  __| |
   \_/ |_|___/\__,_|\__,_|_|     |___/\__|\__,_|\__,_|_|\___/       \___\___/ \__,_|\___|_|
-
+</h3>
 
 
 - 📫 How to reach me **ubdhsqw1@duck.com**
