@@ -11,7 +11,7 @@ __   _(_)___ _   _  __ _| |      ___| |_ _   _  __| (_) ___         ___ ___   __
 ```
 
 
-- 📫 How to reach me **ubdhsqw1@duck.com**
+- 📫 How to reach me **vsdev.duck.com**
 
 <h3 align="left">My Latest Projects</h3>
 
@@ -36,10 +36,9 @@ I am also working on a location-based reminder rewritten with the SwiftUI framew
 > What's on my computer?
 
 - 👨‍💻 IDE: [VSCode](https://code.visualstudio.com/), [Xcode](https://developer.apple.com/xcode/), [Zed](https://zed.dev/)
-- 🎨 Design: [Figma](https://www.figma.com/), [Move](https://www.linearity.io/move/), [Linearity Curve](https://www.linearity.io/curve/), [Blender](https://www.blender.org/)
-- 🔍 Browser: [Arc](https://arc.net/), [SigmaOS](https://sigmaos.com/), [Orion](https://kagi.com/orion/)
+- 🎨 Design: [Figma](https://www.figma.com/), [Move](https://www.linearity.io/move/), [Linearity Curve](https://www.linearity.io/curve/)
+- 🔍 Browser: [Arc](https://arc.net/gift/friend-of-vaibhav) <- Use my referral link!
 - ⚡ Productivity Tools: [Raycast](https://www.raycast.com/), [Shottr](https://shottr.cc/), [HazeOver](https://hazeover.com/)
 - 🎵 Music: [Apple Music](https://music.apple.com/us/browse)
-- 📫 Mail: [Proton Mail](https://proton.me/mail)
-- 😤 Git Merge Conflict Editor: [GitKraken](https://www.gitkraken.com/)
-- 🎁 Other: [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+- 🌐 VPN: [Proton VPN](https://protonvpn.com/)
+- 🎁 Other: [BetterDisplay](https://github.com/waydabber/BetterDisplay)
