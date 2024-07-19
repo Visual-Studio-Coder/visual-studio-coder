@@ -11,7 +11,7 @@ __   _(_)___ _   _  __ _| |      ___| |_ _   _  __| (_) ___         ___ ___   __
 ```
 
 
-- 📫 How to reach me: **vsdev.duck.com**
+- 📫 How to reach me: **vsdev@duck.com**
 
 <h3 align="left">My Latest Projects</h3>
 
