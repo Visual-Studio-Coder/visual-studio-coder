@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56d6cb2c-85e5-4db3-a84b-b352bd42d585" alt="Frame 1">
+  <img src="https://github.com/user-attachments/assets/adb71e40-aff9-40eb-bc93-fd5958e41e5a" alt="Frame 1">
 </p>
+
+
 
 > _"I've been using vim for a year now, mostly because I don't know how to exit it."_
 > 
@@ -50,4 +52,5 @@ Rapid prototyper, open-source developer, skilled artisan.
 - SwiftUI and Swift for iOS development
 - Have used Vite and React
 - Experienced with PyTorch
+- Designed with Figma, Linearity Move/Curve
 - GitHub Copilot, Grok, Raycast AI - Prompt engineering expert, who can make highly moderated LLMs do practically anything...
