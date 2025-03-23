@@ -54,3 +54,6 @@ Rapid prototyper, open-source developer, skilled artisan.
 - Experienced with PyTorch
 - Designed with Figma, Linearity Move/Curve
 - GitHub Copilot, Grok, Raycast AI - Prompt engineering expert, who can make highly moderated LLMs do practically anything...
+
+
+![](https://github-readme-stats.vercel.app/api?username=Visual-Studio-Coder&show_icons=true&theme=github)
