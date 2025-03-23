@@ -49,7 +49,7 @@ Rapid prototyper, open-source developer, skilled artisan.
 ### Tools:
 - Experienced with Git and GitHub
 - Experienced with Vim
-- SwiftUI and Swift for iOS development
+- SwiftUI and UIKit for iOS development
 - Have used Vite and React
 - Experienced with PyTorch
 - Designed with Figma, Linearity Move/Curve
