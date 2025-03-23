@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/56d6cb2c-85e5-4db3-a84b-b352bd42d585" alt="Frame 1">
-</div>
+</p>
 
 > _"I've been using vim for a year now, mostly because I don't know how to exit it."_
 > 
