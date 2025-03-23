@@ -17,9 +17,9 @@ Rapid prototyper, open-source developer, skilled artisan.
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/33/e6/8c33e63c-351b-e816-ba47-2bd2602afe84/AppIcon-0-0-1x_U007epad-0-1-85-220.png/292x0w.webp" width="50" style="border-radius: 10px;">       | [Recap AI](https://apps.apple.com/us/app/recap-ai/id6602897472)    | Your Quiz, Your Way! Using the power of Gemini 2.0, we allow users to generate quizzes on ANYTHING, and this is available completely free of charge! [Contribute](https://github.com/visual-studio-coder/recap) |
 
 ## 🛠️ What Tools Am I Using?
-- Editor: [Zed](https://zed.dev), [Visual Studio Code](https://code.visualstudio.com/), and [Xcode](https://developer.apple.com/xcode/) — All great editors with high customizability, and the first two are open source. Zed, growing in popularity, is a Rust-powered, GPU accelerated editor that runs at lightning speed and works as good as VS Code except with the lack of extension capability.
-- Screenshotting Tool: [Shottr](https://shottr.cc/) - Leverage the free, easy-to-use features like scrolling screenshots, keyboard shortcuts, annotation, and clipboard functionality to keep your desktop clean and take the best screenshots.
-- Menubar Manager: [Ice](https://icemenubar.app/) — For users who have the newer Macbooks, the notch gets in the way of your menu items sometimes. The free, open-source Ice app saves the day!
+- Editor: [**Zed**](https://zed.dev), [**Visual Studio Code**](https://code.visualstudio.com/), and [**Xcode**](https://developer.apple.com/xcode/) — All great editors with high customizability, and the first two are open source. Zed, growing in popularity, is a Rust-powered, GPU accelerated editor that runs at lightning speed and works as good as VS Code except with the lack of extension capability.
+- Screenshotting Tool: [**Shottr**](https://shottr.cc/) - Leverage the free, easy-to-use features like scrolling screenshots, keyboard shortcuts, annotation, and clipboard functionality to keep your desktop clean and take the best screenshots.
+- Menubar Manager: [**Ice**](https://icemenubar.app/) — For users who have the newer Macbooks, the notch gets in the way of your menu items sometimes. The free, open-source Ice app saves the day!
 - Default Launcher: [__**Raycast**__](https://raycast.com/?via=visual-studio-coder) — A powerful tool to enhance productivity with quick access to extensions and commands. I have the base plan of Raycast Pro!
 <details>
 <summary> Check out the Raycast Extensions I have made:</summary>
