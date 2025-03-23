@@ -45,7 +45,7 @@ Rapid prototyper, open-source developer, skilled artisan.
 - Proficient in Java
 - Proficient in Python
 - Proficient in Swift
-- Semi-Proficient in Javascript (and sub-language TypeScript)
+- Semi-Proficient in Javascript (and superset TypeScript)
 ### Tools:
 - Experienced with Git and GitHub
 - Experienced with Vim
