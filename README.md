@@ -59,3 +59,4 @@ Rapid prototyper, open-source developer, skilled artisan.
 ![](https://github-readme-stats.vercel.app/api?username=Visual-Studio-Coder&show_icons=true&theme=github)
 
 ![](https://komarev.com/ghpvc/?username=visual-studio-coder)
+![](https://hit.yhype.me/github/profile?account_id=78756662)
